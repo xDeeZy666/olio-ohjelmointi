@@ -1,0 +1,13 @@
+# Käännöstulosteet (Qt Creator tekee nämä jokaisen harjoituksen sisään)
+build*/
+*.exe
+*.o
+*.obj
+
+# Qt Creatorin omat asetukset
+.qtcreator/
+*.user
+*.user.*
+
+# VS Code
+.vscode/
